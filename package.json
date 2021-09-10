@@ -1,4 +1,7 @@
 {
   "name": "@hh.ru/browserslist-config-hhru",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "scripts": {
+    "release": "npm publish --access=public"
+  }
 }
