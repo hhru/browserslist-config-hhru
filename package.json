@@ -1,7 +1,9 @@
 {
   "name": "@hh.ru/browserslist-config-hhru",
-  "files": ["index.js"],
-  "version": "0.0.1",
+  "files": [
+    "index.js"
+  ],
+  "version": "0.0.2",
   "scripts": {
     "test": "node test",
     "release": "npm publish --access=public"
