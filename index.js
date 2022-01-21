@@ -7,6 +7,5 @@ module.exports = [
     'last 10 ChromeAndroid versions',
     'last 10 Edge versions',
     'Firefox ESR',
-    'Explorer >= 11',
     'Android >= 5',
 ];
