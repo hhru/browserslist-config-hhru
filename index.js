@@ -4,7 +4,7 @@ module.exports = [
     'last 10 Opera versions',
     'last 10 Safari versions', // safari нумерует не мажорные версии. Например 9, 9.1 это 2 разные версии
     'last 10 iOS versions', // ios нумерует не мажорные версии, а отрезки. Например 9-9.2 это одна версия, а 9.3 другая
-    'ChromeAndroid', // всегда возвращает последнюю версию, сравнение версий работает только для десктопного Chrome
+    'last 1 ChromeAndroid version', // всегда возвращает последнюю версию, сравнение версий работает только для десктопного Chrome
     'last 10 Edge versions',
     'Firefox ESR',
     'Android >= 5',
