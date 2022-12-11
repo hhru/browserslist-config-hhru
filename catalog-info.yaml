@@ -1,0 +1,13 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: browserslist-config-hhru
+  annotations:
+    github.com/project-slug: hhru/browserslist-config-hhru
+  tags:
+    - backend
+    - js
+spec:
+  type: library
+  lifecycle: production
