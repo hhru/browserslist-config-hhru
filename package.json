@@ -3,7 +3,7 @@
   "files": [
     "index.js"
   ],
-  "version": "0.0.6",
+  "version": "0.0.7",
   "scripts": {
     "test": "node test",
     "release": "npm publish --access=public"
