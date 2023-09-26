@@ -7,5 +7,5 @@ module.exports = [
     'last 1 ChromeAndroid version', // всегда возвращает последнюю версию, сравнение версий работает только для десктопного Chrome
     'last 10 Edge versions',
     'Firefox ESR',
-    'Android >= 5',
+    'Android >= 117'
 ];
