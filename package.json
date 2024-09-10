@@ -7,5 +7,6 @@
   "scripts": {
     "test": "node test",
     "release": "npm publish --access=public"
-  }
+  },
+  "private": true
 }
